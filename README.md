@@ -1,20 +1,15 @@
-# notes_app
+# Flutter Notes App (SQLite)
 
-A new Flutter project.
+Aplikasi catatan sederhana menggunakan Flutter dan SQLite (`sqflite`). Mendukung fitur CRUD: tambah, lihat, edit, dan hapus catatan.
 
 ## Link Demo
 
 https://youtu.be/SKgMqODNowQ
 
-## Getting Started
+## 📦 Fitur
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tambah catatan
+- Lihat daftar catatan
+- Edit catatan
+- Hapus catatan
+- Penyimpanan lokal (offline) dengan SQLite
